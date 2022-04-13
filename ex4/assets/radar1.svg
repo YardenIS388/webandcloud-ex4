@@ -1,0 +1,97 @@
+<svg width="284" height="218" viewBox="0 0 284 218" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Frame 93">
+<rect width="284" height="218" fill="#21252E"/>
+<g id="Frame 33">
+<g id="Frame 32">
+<rect x="1" y="-1" width="10" height="10" rx="5" transform="matrix(1 0 0 -1 7 19)" fill="#565B7C"/>
+<rect x="1" y="-1" width="10" height="10" rx="5" transform="matrix(1 0 0 -1 7 19)" stroke="black" stroke-width="2"/>
+</g>
+<g id="Frame 31">
+<rect x="1" y="-1" width="10" height="10" rx="5" transform="matrix(1 0 0 -1 7 209)" fill="#565B7C"/>
+<rect x="1" y="-1" width="10" height="10" rx="5" transform="matrix(1 0 0 -1 7 209)" stroke="black" stroke-width="2"/>
+</g>
+</g>
+<g id="Frame 34">
+<g id="Frame 32_2">
+<rect x="1" y="-1" width="10" height="10" rx="5" transform="matrix(1 0 0 -1 267 19)" fill="#565B7C"/>
+<rect x="1" y="-1" width="10" height="10" rx="5" transform="matrix(1 0 0 -1 267 19)" stroke="black" stroke-width="2"/>
+</g>
+<g id="Frame 31_2">
+<rect x="1" y="-1" width="10" height="10" rx="5" transform="matrix(1 0 0 -1 267 209)" fill="#565B7C"/>
+<rect x="1" y="-1" width="10" height="10" rx="5" transform="matrix(1 0 0 -1 267 209)" stroke="black" stroke-width="2"/>
+</g>
+</g>
+<g id="Frame 35">
+<rect width="239" height="172" transform="translate(22 24)" fill="#6F7C9E"/>
+<g id="Group 4">
+<g id="Frame 10">
+<rect width="34" height="58" transform="translate(107 33)" fill="#282626" fill-opacity="0.58"/>
+<rect id="Rectangle 1" x="109" y="62" width="30" height="27" fill="#DCDFE8"/>
+<rect id="Rectangle 2" x="109" y="38" width="30" height="24" fill="#ACAEBD"/>
+<g id="Frame 11">
+<rect width="30" height="3" transform="translate(109 35)" fill="#DCDFE8"/>
+</g>
+</g>
+</g>
+<g id="Group 3">
+<g id="Frame 10_2">
+<rect width="34" height="58" transform="translate(25 33)" fill="#282626" fill-opacity="0.58"/>
+<rect id="Rectangle 1_2" x="27" y="62" width="30" height="27" fill="#E65F2F"/>
+<rect id="Rectangle 2_2" x="27" y="38" width="30" height="24" fill="#942313"/>
+<g id="Frame 11_2">
+<rect width="30" height="3" transform="translate(27 35)" fill="#DC7045"/>
+</g>
+</g>
+</g>
+<g id="Group 2">
+<g id="Frame 10_3">
+<rect width="34" height="58" transform="translate(100 91) rotate(180)" fill="#282626" fill-opacity="0.58"/>
+<rect id="Rectangle 1_3" x="98" y="62" width="30" height="27" transform="rotate(180 98 62)" fill="#24B9C0"/>
+<rect id="Rectangle 2_3" x="98" y="86" width="30" height="24" transform="rotate(180 98 86)" fill="#149EA8"/>
+<g id="Frame 11_3">
+<rect width="30" height="3" transform="translate(98 89) rotate(180)" fill="#24BCC7"/>
+</g>
+</g>
+</g>
+<g id="Frame 19">
+<rect width="116" height="89" transform="translate(25 99)" fill="#1F2731"/>
+<g id="Frame 22">
+<rect x="28.25" y="179.25" width="4.5" height="4.5" rx="2.25" fill="#A25B47"/>
+<rect x="28.25" y="179.25" width="4.5" height="4.5" rx="2.25" stroke="#FBE4EC" stroke-width="0.5"/>
+</g>
+<g id="Frame 26">
+<g id="Frame 21">
+<rect x="28.25" y="107.25" width="4.5" height="4.5" rx="2.25" fill="#A25B47"/>
+<rect x="28.25" y="107.25" width="4.5" height="4.5" rx="2.25" stroke="#FBE4EC" stroke-width="0.5"/>
+</g>
+<g id="Group 5">
+<g id="radar">
+<g clip-path="url(#clip0_24_1144)">
+<rect x="47.5" y="107" width="70" height="70" rx="35" fill="#E36229"/>
+<rect id="Rectangle 3" x="81.5" y="107" width="2" height="70" fill="#C4C4C4"/>
+<rect id="Rectangle 4" x="47.5" y="143" width="2" height="70" transform="rotate(-90 47.5 143)" fill="#C4C4C4"/>
+<rect id="Rectangle 5" x="62.5" y="145" width="3" height="1" fill="#C4C4C4"/>
+<rect id="Rectangle 6" x="72.5" y="148" width="1" height="3" fill="#C4C4C4"/>
+<rect id="Rectangle 7" x="70.5" y="131" width="2" height="4" fill="#C4C4C4"/>
+<rect id="Rectangle 8" x="89.5" y="148" width="1" height="3" fill="#C4C4C4"/>
+</g>
+</g>
+</g>
+<g id="Frame 23">
+<rect x="132.25" y="107.25" width="4.5" height="4.5" rx="2.25" fill="#A25B47"/>
+<rect x="132.25" y="107.25" width="4.5" height="4.5" rx="2.25" stroke="#FBE4EC" stroke-width="0.5"/>
+</g>
+</g>
+<g id="Frame 24">
+<rect x="132.25" y="179.25" width="4.5" height="4.5" rx="2.25" fill="#A25B47"/>
+<rect x="132.25" y="179.25" width="4.5" height="4.5" rx="2.25" stroke="#FBE4EC" stroke-width="0.5"/>
+</g>
+</g>
+</g>
+</g>
+<defs>
+<clipPath id="clip0_24_1144">
+<rect x="47.5" y="107" width="70" height="70" rx="35" fill="white"/>
+</clipPath>
+</defs>
+</svg>
